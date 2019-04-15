@@ -1,0 +1,9 @@
+Calidad de la arquitectura:
+  Usabilidad: Que se pueda usar facil y rapidamente
+  Mantenibilidad: Que se pueda aumentar
+  Eficiencia: Que use los recursos suficientes sin desperdiciar
+
+Calidad de datos: 
+  Conformidad, Precision, Integridad, Tiempo, Completitud, Consistencia.
+  
+  
