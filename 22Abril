@@ -1,0 +1,14 @@
+COMANDO PARA AGREGAR COLORES A GIT:
+  git config color.ui true
+  
+COMANDO PARA DIFERENCIAS
+  git diff
+  git diff --staged -> paraver diferencias con el mas actual vs. lo que haya en add
+  
+GUARDAR CAMBIOS TEMPORALMENTE
+  git stash
+  git stash pop -> Para devolverme a lo que tenía antes en el archivo
+
+CREAR UNA RAMA
+  git checkout -b nombreDeLaRama
+  git checkout nombreDeLaRama -> cambiar a la rama descrita
