@@ -12,3 +12,5 @@ GUARDAR CAMBIOS TEMPORALMENTE
 CREAR UNA RAMA
   git checkout -b nombreDeLaRama
   git checkout nombreDeLaRama -> cambiar a la rama descrita
+  
+https://github.com/gothinkster/realworld.git
